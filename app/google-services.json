@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "124682533032",
+    "project_id": "happy-fish40",
+    "storage_bucket": "happy-fish40.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124682533032:android:b60333bfe5eebe9afdaa9d",
+        "android_client_info": {
+          "package_name": "com.fajaradp.happyfish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124682533032-138ne35l89u0f8kmrj0582sqanpnm8qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFbZbX8zZSE7KfUzjLBYiako9h2C9sbag"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124682533032-138ne35l89u0f8kmrj0582sqanpnm8qt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
